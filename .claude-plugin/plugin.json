@@ -1,0 +1,18 @@
+{
+  "name": "headcount",
+  "version": "1.0.0",
+  "description": "Static agent skill for headcount proposals, capacity options, and audits grounded in workload, role boundaries, and evidence. Static: no network calls, no remote fetch, no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/headcount",
+  "repository": "https://github.com/andrewluxem/headcount",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "headcount",
+    "skill-md",
+    "workforce-planning"
+  ]
+}

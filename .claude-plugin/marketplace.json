@@ -1,0 +1,24 @@
+{
+  "name": "headcount",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Static agent skill for headcount proposals, capacity options, and audits grounded in workload, role boundaries, and evidence.",
+  "plugins": [
+    {
+      "name": "headcount",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Headcount Proposal, Headcount Options Memo, Headcount Plan Audit. Static: no network calls, no remote fetch, no auto-update. Version-pinned.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "headcount",
+        "skill-md",
+        "workforce-planning"
+      ]
+    }
+  ]
+}
